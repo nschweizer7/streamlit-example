@@ -7,6 +7,7 @@ st.title('PollenPal')
 
 st.write("Welcome to PollenPal! This app will help you track pollen levels in your area and provide you with alerts when pollen levels are high.")
 
+
 # Add a selectbox to the sidebar:
 add_selectbox = st.sidebar.selectbox(
     'What would you like to do?',
